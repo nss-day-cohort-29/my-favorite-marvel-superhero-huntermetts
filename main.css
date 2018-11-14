@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Acme|Luckiest+Guy|Montserrat:300');
+
+*{
+    background-color: #E3F2FE;
+}
+
+header{
+    text-align: center;
+    font-family: 'Luckiest Guy', sans-serif;
+    text-transform: uppercase;
+    font-size: 26px;
+    letter-spacing: 6px;
+    color: #393C40;
+}
+
+header h1{
+    padding-bottom: 25px;
+    padding-top: 25px;
+    /* text-shadow: 1px 1px black; */
+}
+
+section{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+    letter-spacing: 1.1px;
+    color: #393C40;
+}
+
+    .superhero_pic{
+    padding-bottom: 25px;
+}
+
+br {
+    line-height: 200%;
+ }
